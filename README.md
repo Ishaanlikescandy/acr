@@ -21,6 +21,6 @@ The game is **coming soon.**
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/image.png)
 
 ## About the Creator
-**Useayy123** is a roblox player that is also a developer of 3 roblox games **American County Railway (ACR), Canadian Elemental Railway (CER), and Railway Japan.** Useayy123 also loves trains.
+**Useayy123** is a roblox player that is also a developer of 3 roblox games **American County Railway (ACR), Canadian Elemental Railway (CER), and Railway Japan.** Useayy123 also loves trains. His name is Sanjeev Pinjala
 ####
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/useayy123-removebg-preview.png)
