@@ -15,6 +15,8 @@ The game is **coming soon.**
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/ACR-removebg-preview.png)
 ######
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/Screenshots%20for%20ACR%20Roblox.png)
+######
+![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/Screenshots%20for%20ACR%20Roblox%20(1).png)
 
 ## About the Creator
 **Useayy123** is a roblox player that is also a developer of 3 roblox games **American County Railway (ACR), Canadian Elemental Railway (CER), and Railway Japan.** Useayy123 also loves trains.
