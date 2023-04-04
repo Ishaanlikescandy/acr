@@ -12,8 +12,6 @@ The game trailer is **coming soon.**
 The game is **coming soon.**
 ## Screenshots
 ######
-![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/ACR-removebg-preview.png)
-######
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/Screenshots%20for%20ACR%20Roblox.png)
 ######
 ![alt text](https://raw.githubusercontent.com/Ishaanlikescandy/acr/main/Screenshots%20for%20ACR%20Roblox%20(1).png)
