@@ -5,5 +5,4 @@ Welcome to **American County Railway!** An American train network simulation gam
 [![General badge](https://img.shields.io/badge/Watch-Trailer-red.svg)]()
 [![General badge](https://img.shields.io/badge/Play-ACR-success.svg)]()
 [![General badge](https://img.shields.io/badge/View-Screenshots-yellow.svg)]()
-[![General badge](https://img.shields.io/badge/Visit-Discord-informational.svg)]()
-[![General badge](https://img.shields.io/badge/Creators-Profile-blueviolet.svg)](https://web.roblox.com/users/1634365729/profile)
+[![General badge](https://img.shields.io/badge/Creators-Profile-informational.svg)](https://web.roblox.com/users/1634365729/profile)
