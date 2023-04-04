@@ -7,4 +7,4 @@ Welcome to **American County Railway!** An American train network simulation gam
 ![alt text](https://img.shields.io/badge/View-Screenshots-yellow)
 ![alt text](https://img.shields.io/badge/Visit%20ACR-Discord-informational)
 #
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Watch-Trailer-red.svg)](https://google.com)
